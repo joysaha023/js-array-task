@@ -43,14 +43,14 @@
 //     i = i + 2;
 // }
 
-let number = 206;
-let sum = 0;
+// let number = 206;
+// let sum = 0;
 
-while (number <= 311) {
-    if (number % 2 === 0) {
-        sum += number;
-    }
-    number++;
-}
+// while (number <= 311) {
+//     if (number % 2 === 0) {
+//         sum += number;
+//     }
+//     number++;
+// }
 
-console.log(`The sum of all even numbers from 206 to 311 is: ${sum}`);
+// console.log(`The sum of all even numbers from 206 to 311 is: ${sum}`);

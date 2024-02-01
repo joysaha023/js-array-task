@@ -24,12 +24,12 @@
 //     console.log(texti);
 // }
 
-let days = 1;
+// let days = 1;
 
-while(days <= 60){
-    // console.log("I will invest at least 6 hrs every single day for next 60 days!");
-    days++;
-}
+// while(days <= 60){
+//     // console.log("I will invest at least 6 hrs every single day for next 60 days!");
+//     days++;
+// }
 
 // for(i = 1; i <= 60; i++){
 //     // console.log("I will invest at least 6 hrs every single day for next 60 days!");
@@ -46,6 +46,27 @@ while(days <= 60){
     
 // }
 
-for(i = 78; i <= 98; i = i + 2){
+// for(i = 78; i <= 98; i = i + 2){
+//     console.log(i);
+// }
+
+
+// let i = 11;
+// let sum = 0;
+
+// for(i = 11; i<= 20; i++){
+//     sum = sum + i;
+//     console.log(i);
+// }
+
+// console.log('sum of numbers from 11 to 20 is: ', sum);
+
+// for(i = 10; i >= 0; i--){
+//     console.log(i);
+// }
+
+let i = 10;
+while(i >= 0){
     console.log(i);
+    i--;
 }
